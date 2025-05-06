@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-palabra = "Battery street"
 number = 98
 
-def print_number(palabra, nombre):
-    print(number, palabra)
+def print_number(number):
+    print(f"{number} Battery street")
 
-print_number(palabra, number)
+print_number(number)
