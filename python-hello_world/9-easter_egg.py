@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 import this
-print(this.s[890:])
+print(this.s[856:-1])
